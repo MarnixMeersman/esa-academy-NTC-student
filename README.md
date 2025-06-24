@@ -1,4 +1,4 @@
-# ESA Academy 2025 – IQ Sample Processing Tutorial
+# ESA Academy Navigation Training Course - Teacher Version
 ![img.png](img.png)
 
 
